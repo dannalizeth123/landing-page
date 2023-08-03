@@ -1,0 +1,23 @@
+/* estilos barra de navegacion*/
+
+.nav-color{
+   background-color: white;
+    box-shadow: 1px 1px 1px 1px #ccc;
+}
+
+.color_dropdown{
+    background-color: #33b819;
+    border-radius: 5px;
+
+}
+.color_dropdown:hover{
+    background-color: #07ff3d;
+    border-radius: 5px;
+
+}
+/* estilo sesion inicio */
+.section-inicio{
+    background-color: #ccc;
+    width: 100%;
+    height: 400px;
+}
